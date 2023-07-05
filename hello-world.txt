@@ -1,1 +1,1 @@
-This is my first bash GitHub session! It's very empowering!
+This is my first BASH GitHub session! It's very empowering!
