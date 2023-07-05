@@ -1,1 +1,1 @@
-This is my first BASH GitHub session! It's very empowering!
+This is my first BASH GitHub session! It's very empowering! I am looking forward to bolstering my portfolio with meaningful commit messages!
